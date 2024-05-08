@@ -16,7 +16,6 @@ Follow those instructions in order to set up linters or validators in your repo.
 In order to get to know more about linters and GitHub Actions read the recap below.
 
 ## Linters
-
 A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs(source: [Wikipedia](<https://en.wikipedia.org/wiki/Lint_(software)>)).
 
 There are a few reasons for using linters:
